@@ -7,9 +7,6 @@
 
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to Integration between Asana and Airtable </h1>
 
-# DEMO
-[Video Demo](https://www.loom.com/share/151046f5092b495582d1356a08f31103?sid=93d6a8d3-22ea-43f8-b434-e39804adf5ac) Explains how the integration is working
-
  # 🎬 About
 
 A service designed to seamlessly integrate your Asana tasks with Airtable, eliminating the need for manual copying. This service streamlines the synchronization of task data between the two platforms.
